@@ -7,12 +7,12 @@
 Bootstrap is one of the world's most popular CSS libraries in the world. It is easy to use. This project is a visual clone of this site [here](https://cartzilla.createx.studio/)
 
 ## visuals
-- Desktop view
+### Desktop view
 ![index.html desktop view](assets/images/first.jpg?raw=true "index.html Desktop View")
 ![index.html desktop view](assets/images/two.jpg?raw=true "index.html Desktop View")
-- Tablet view
+### Tablet view
 ![index.html tablet view](assets/images/responsive1.jpg?raw=true "index.html Tablet View")
-- Mobile view
+### Mobile view
 ![index.html mobile view](assets/images/responsive2.jpg?raw=true "index.html Mobile View")
 
 ## Why Bootstrap?
