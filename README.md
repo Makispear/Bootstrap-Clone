@@ -1,6 +1,6 @@
 # Bootstrap Showcase
 
-![Bootstrap logo](assets/images/bootstrapLogo.png?raw=true "Bootstrap")
+![Bootstrap logo](assets/images/logo.png?raw=true "Bootstrap")
 
 ## Description
 
