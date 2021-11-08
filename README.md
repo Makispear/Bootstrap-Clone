@@ -3,7 +3,6 @@
 ![Bootstrap logo](assets/images/logo.png?raw=true "Bootstrap")
 
 ## Description
-
 Bootstrap is one of the world's most popular CSS libraries in the world. It is easy to use. This project is a visual clone of this site [here](https://cartzilla.createx.studio/)
 
 ## visuals
@@ -22,4 +21,6 @@ This project is just an example of how you can create a fully designed website e
 For more about me and my work, visit my website [portfolio](https://makispear.github.io/Makispear/)
 ### links
 - my [GitHub Repository](https://github.com/Makispear)
+- my [Live Deployment](https://makispear.github.io/Bootstrap-Clone/)
 - my [Email](mailto:maki-miko@hotmail.com)
+
